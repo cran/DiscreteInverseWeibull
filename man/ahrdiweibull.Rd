@@ -24,7 +24,7 @@ the value of the \eqn{\beta} parameter
 the value of the alternative hazard rate function in the \code{x} values
 }
 \details{
-The alternative hazard rate function is defined as \eqn{h(x)=\log(P(X>x-1)/P(X>x))=\log((1-q^{(x-1)^{-\beta}})/(1-q^{x^{-\beta}}))}
+The alternative hazard rate function is defined as \eqn{h(x)=\log(P(X>x-1)/P(X>x))=\log[(1-q^{(x-1)^{-\beta}})/(1-q^{x^{-\beta}})]}
 }
 \seealso{
 \code{\link{hrdiweibull}}

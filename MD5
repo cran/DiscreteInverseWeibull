@@ -1,5 +1,5 @@
-cfbf90f0d320139e83eb0d26754a302a *DESCRIPTION
-a2b52f0651e8d9e88c134274fceffb9e *NAMESPACE
+895cb7a2df287e66c8710ca2f0efd492 *DESCRIPTION
+f48d338ce441bf900f7cd57620bb0e36 *NAMESPACE
 63529c07993dd7a361ab756ffef7dfa2 *R/Ediweibull.R
 1d5ff81388f704be3c1ffe9a61c28a11 *R/ahrdiweibull.R
 ddb9c810a1c5e097f14615d64a7a22fe *R/ddiweibull.R
@@ -8,10 +8,9 @@ ddb9c810a1c5e097f14615d64a7a22fe *R/ddiweibull.R
 5fc6207558676086c659471c85d5dd3d *R/hrdiweibull.R
 c6d557e580173a62290827c6c4de75bb *R/loglikediw.R
 0cf3d53609c64e731db66b000cf41528 *R/lossdiw.R
-07e492eb05cf31613dfc36b3bfdb6373 *doc/DiscreteInverseWeibull-manual.pdf
 e64b4e73578a48688769eb400e7f2778 *man/DiscreteInverseWeibull-package.Rd
 aa6f1e60abbaa6527280aa1f77ae8149 *man/Ediweibull.Rd
-abe3251e58add3463a7e6090865f3ec7 *man/ahrdiweibull.Rd
+9f436131232d28342f9adde9525f14a9 *man/ahrdiweibull.Rd
 3418c8c99dc0743542cf81b0ec76885a *man/ddiweibull.Rd
 f2822392ce6bd5a72b206d87269d6af8 *man/estdiweibull.Rd
 d8d138dfaa082e548b69638925e402e7 *man/heuristic.Rd
