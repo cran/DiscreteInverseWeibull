@@ -3,7 +3,7 @@
 \alias{DiscreteInverseWeibull}
 \docType{package}
 \title{
-Discrete Inverse Weibull distribution
+Discrete Inverse Weibull Distribution
 }
 \description{
 Probability mass function, distribution function, quantile function, random generation and parameter estimation for the discrete inverse Weibull distribution
@@ -12,15 +12,15 @@ Probability mass function, distribution function, quantile function, random gene
 \tabular{ll}{
 Package: \tab DiscreteInverseWeibull\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-10-15\cr
+Version: \tab 1.0.2\cr
+Date: \tab 2016-04-29\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 Depends: \tab Rsolnp\cr
 }
 }
 \author{
-Alessandro Barbiero <alessandro.barbiero@unimi.it>, Riccardo Inchingolo <riccardo.arner@libero.it>
+Alessandro Barbiero <alessandro.barbiero@unimi.it>, Riccardo Inchingolo <dott.inchingolo_r@libero.it>, Mario Samigli <giulio.samigli@gmail.com>
 }
 \references{
 Jazi M.A., Lai C.-D., Alamatsaz M.H. (2010) A discrete inverse Weibull distribution and estimation of its parameters, Statistical Methodology 7: 121-132
